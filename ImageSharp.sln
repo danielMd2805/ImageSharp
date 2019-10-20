@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28902.138
@@ -414,18 +414,6 @@ Global
 		{2BF743D8-2A06-412D-96D7-F448F00C5EA5}.Release|x64.Build.0 = Release|Any CPU
 		{2BF743D8-2A06-412D-96D7-F448F00C5EA5}.Release|x86.ActiveCfg = Release|Any CPU
 		{2BF743D8-2A06-412D-96D7-F448F00C5EA5}.Release|x86.Build.0 = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|x64.Build.0 = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Debug|x86.Build.0 = Debug|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|x64.ActiveCfg = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|x64.Build.0 = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|x86.ActiveCfg = Release|Any CPU
-		{561B880A-D9EE-44EF-90F5-817C54A9D9AB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
